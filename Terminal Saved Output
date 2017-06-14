@@ -1,0 +1,59 @@
+Last login: Tue May 30 15:41:37 on ttys000
+~$ cd D
+Desktop/   Documents/ Downloads/ 
+~$ cd Desktop/W1D2
+~/Desktop/W1D2$ ls
+aa-practice-test-generator recursive_homework.rb
+board.rb                   sudoku1.txt
+card_match                 tile.rb
+~/Desktop/W1D2$ cd aa-practice-test-generator/
+~/Desktop/W1D2/aa-practice-test-generator (master)$ atom .
+~/Desktop/W1D2/aa-practice-test-generator (master)$ ruby digital_root(123)
+-bash: syntax error near unexpected token `('
+~/Desktop/W1D2/aa-practice-test-generator (master)$ cd problems/
+~/Desktop/W1D2/aa-practice-test-generator/problems (master)$ ruby digital_root.rb 
+12
+~/Desktop/W1D2/aa-practice-test-generator/problems (master)$ ruby digital_root.rb 
+12
+~/Desktop/W1D2/aa-practice-test-generator/problems (master)$ ruby digital_root.rb 
+^Cdigital_root.rb:18:in `digital_root_step': Interrupt
+	from digital_root.rb:11:in `digital_root'
+	from digital_root.rb:46:in `<main>'
+
+~/Desktop/W1D2/aa-practice-test-generator/problems (master)$ ruby digital_root.rb 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
